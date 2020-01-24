@@ -3,15 +3,15 @@ This will serve as a repositories for harry and Nico's robot arm project
 
 
 ## Planning
-We are planning on making a robot leg that kicks a soccer ball into a goal
+We are going to take a little different route from the traditional robot arm, we will be creating a robot leg. The objective of the leg is to kick a soccer ball into a goal.
 ### Resources
-  For this we will utilize Gears, 3D printed and laser cut parts, servos, and buttons
+  For this we will utilize Gears, 3D printed and laser cut parts, servos, and buttons. 
 ### Scope
-I think that our project will definitely challenge us, We have planned out something that will challenge us but wont kill our will to live.
+The project will be very challenging but it is do-able. We need to manage our time wisely and work productively in order to complete the project within our timeframe. We have given ourselves an appopriate time frame so that in the case that we need more time, we have it.
 ### Schedule
 |1/22-1/31| Complete planning and finish setting the milestones in place.|
 
-|2/3-2/7| Create in depth sketch of robot foot and start the leg building in solid works.|
+|2/3-2/7| Create detailed sketch of robot foot and start the leg building in solid works.|
 
 |2/10-2/14| Build A prototype robot leg in solid works and use 4 servos in build.|
 
@@ -29,7 +29,7 @@ I think that our project will definitely challenge us, We have planned out somet
 
 |3/30-4/3| Test of unforeseen errors and try and fix them|
 
-|4/6-4/10| One last week of problem solving and to give us a bit of flexibility.|
+|4/6-4/10| One last week of problem solving and adding cosmetic features to give us a bit of flexibility.|
 
 
 
