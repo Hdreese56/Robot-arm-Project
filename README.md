@@ -16,6 +16,7 @@ I think that our project will definitely challenge us, We have planned out somet
 |2/10-2/14| Build A prototype robot leg in solid works and use 4 servos in build.|
 
 |2/17-2/21| Begin coding for the first 2 servos; the hip and the knee and hopefully have them coded.|                                        
+
 |2/24-2/28| Code the second two servos, the ankle and the toes.|
 
 |3/2-3/6| Code them to work in unison and kick the ball in the goal.|
