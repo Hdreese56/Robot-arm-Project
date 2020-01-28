@@ -5,9 +5,9 @@ This will serve as a repositories for harry and Nico's robot arm project
 ## Planning
 We are going to take a little different route from the traditional robot arm, we will be creating a robot leg. The objective of the leg is to kick a soccer ball into a goal.
 ### Resources
-  For this we will utilize Gears, 3D printed and laser cut parts, servos, and buttons. 
+ We have coded servos in the past so looking back on our old assignments will be helpful. However for the information that is unfamiliar to us, we will use google, classmates, or Dr. Shields. Although our project is difficult we have plenty of resources to assist us.
 ### Scope
-The project will be very challenging but it is do-able. We need to manage our time wisely and work productively in order to complete the project within our timeframe. We have given ourselves an appopriate time frame so that in the case that we need more time, we have it.
+We have chosen a project that is different from others so ours will most likely be more difficult. We need to manage our time wisely and work productively in order to complete the project within our timeframe. We have given ourselves an appopriate time frame so that in the case that we need more time, we have it. 
 ### Schedule
 |1/22-1/31| Complete planning and finish setting the milestones in place.|
 
