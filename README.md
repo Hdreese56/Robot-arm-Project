@@ -29,7 +29,7 @@ We have chosen a project that is different from others so ours will most likely 
 
 |3/30-4/3| Test of unforeseen errors and try and fix them|
 
-|4/6-4/10| One last week of problem solving and adding cosmetic features to give us a bit of flexibility.|
+|4/13-4/17| One last week of problem solving and adding cosmetic features to give us a bit of flexibility.|
 
 
 
