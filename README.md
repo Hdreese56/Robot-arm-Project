@@ -23,7 +23,8 @@ We have chosen a project that is different from others so ours will most likely 
 
 |3/9-3/13| Form a Sketch with the robot let and stress test for optimization.|
 
-|3/10| #BIG CHANGE - we changed our project from a robot leg kicking a soccer ball, to a robot arm holding a lacrosse stick and throwing a little ball. Why? we decided that our original plan was very flawed and found that it would be easier to ditch the entire leg idea all together. We had the leg being suspended which would be too hard on the servos and it would be imbalanced and sway side to side. Besides from the SolidWorks, everything basically remains the same. This should not be a huge setback and the project still seems do-able
+## BIG CHANGE
+|3/10| - we changed our project from a robot leg kicking a soccer ball, to a robot arm holding a lacrosse stick and throwing a little ball. Why? we decided that our original plan was very flawed and found that it would be easier to ditch the entire leg idea all together. We had the leg being suspended which would be too hard on the servos and it would be imbalanced and sway side to side. Besides from the SolidWorks, everything basically remains the same. This should not be a huge setback and the project still seems do-able
 
 |3/16-3/20| Analyze the range of motion and optimize it.|
 
