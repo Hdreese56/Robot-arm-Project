@@ -33,6 +33,13 @@ We have chosen a project that is different from others so ours will most likely 
 |3/30-4/3| Test of unforeseen errors and try and fix them|
 
 |4/13-4/17| One last week of problem solving and adding cosmetic features to give us a bit of flexibility.|
+## UNEXEPECTED CHANGE
+On the 13th of march charlottesville city schools announced that shools would shut down for 2 weeks
+This will stifle our ability to complete our project.
+
+## UNEXPECTED CHANGE 2
+School has been move to online leanring for the rest of the year.
+
 
 
 
